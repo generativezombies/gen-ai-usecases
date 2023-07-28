@@ -1,0 +1,4 @@
+apiVersion: v0
+name: template1
+content: |
+  What is the good name of a IT software company that provides: {{services}}
